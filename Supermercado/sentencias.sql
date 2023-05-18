@@ -3,7 +3,7 @@ use SUPERMERCADO
 alter table prueba
 alter column nombre nvarchar(60)
 
--- Aï¿½adir columna 
+-- Añadir columna 
 
 alter table prueba
 add nombre nvarchar(60)
